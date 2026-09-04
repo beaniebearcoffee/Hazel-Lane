@@ -1,0 +1,8 @@
+{
+  "name": "hazel-and-lane-photography",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "@netlify/blobs": "^7.0.1"
+  }
+}
